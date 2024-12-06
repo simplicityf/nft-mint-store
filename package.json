@@ -13,6 +13,8 @@
         "@radix-ui/themes": "^2.0.3",
         "@web3modal/ethers": "^4.0.13",
         "@web3modal/react": "^2.7.1",
+        "@web3modal/siwe": "^5.1.11",
+        "@web3modal/ui": "^5.1.11",
         "axios": "^1.7.7",
         "ethers": "^6.13.4",
         "react": "^18.2.0",
